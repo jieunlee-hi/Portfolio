@@ -1,6 +1,8 @@
 # Data Analytics Portfolio
 ![아이콘](https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-1565652-1327717.png)
 
+![파이썬](https://user-images.githubusercontent.com/89245616/179816812-c8e02d59-5c54-404f-9b44-3106d68dd5cc.png) ![시각화](https://user-images.githubusercontent.com/89245616/179816812-c8e02d59-5c54-404f-9b44-3106d68dd5cc.png)
+
 # 1.Project -
 
 * Background
