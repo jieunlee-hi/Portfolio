@@ -1,8 +1,7 @@
 # Data Analytics Portfolio
 ![아이콘](https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-1565652-1327717.png)
 
-![파이썬](https://www.filehippo-filehippo.com/picmympi/2020/11/Download-Python-For-Windows-10-e1626455787656.png) ![엑셀](https://th.bing.com/th/id/OIP.GYNSoJhqmbBIHo58H7W9HQAAAA?pid=ImgDet&w=240&h=240&rs=1) ![SQL](https://th.bing.com/th/id/OIP.QGwmF9AzQ-skr3a4N6YAmAAAAA?pid=ImgDet&rs=1) 
-![그래프](https://th.bing.com/th/id/R.c46a2db57dea071e3997765654d38b42?rik=wAYRew3rH8lM1Q&riu=http%3a%2f%2fwww.jnsanti.net%2fTemplates%2fT20006%2fimages%2fcharacteristic1.png&ehk=2Ob%2bBiEgrHktNlMqJTiezkheAl8VPFuumwvylUeWEWc%3d&risl=&pid=ImgRaw&r=0)
+![파이썬](https://www.filehippo-filehippo.com/picmympi/2020/11/Download-Python-For-Windows-10-e1626455787656.png) ![SQL](https://th.bing.com/th/id/OIP.QGwmF9AzQ-skr3a4N6YAmAAAAA?pid=ImgDet&rs=1) 
 
 # 1.Project -
 
