@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 ![아이콘](https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-1565652-1327717.png)
 
-![파이썬](https://user-images.githubusercontent.com/89245616/179816812-c8e02d59-5c54-404f-9b44-3106d68dd5cc.png) ![시각화](https://user-images.githubusercontent.com/89245616/179816812-c8e02d59-5c54-404f-9b44-3106d68dd5cc.png)
+![파이썬](https://www.bing.com/images/blob?bcid=S36FeOoPYZ4EqxcxoNWLuD9SqbotqVTdPyA) ![엑셀]([https://user-images.githubusercontent.com/89245616/179816812-c8e02d59-5c54-404f-9b44-3106d68dd5cc.png](https://www.bing.com/images/blob?bcid=r0y0.oMbj54EHw)) ![SQL](https://th.bing.com/th/id/OIP.QGwmF9AzQ-skr3a4N6YAmAAAAA?pid=ImgDet&rs=1) ![그래프](https://th.bing.com/th/id/R.c46a2db57dea071e3997765654d38b42?rik=wAYRew3rH8lM1Q&riu=http%3a%2f%2fwww.jnsanti.net%2fTemplates%2fT20006%2fimages%2fcharacteristic1.png&ehk=2Ob%2bBiEgrHktNlMqJTiezkheAl8VPFuumwvylUeWEWc%3d&risl=&pid=ImgRaw&r=0)
 
 # 1.Project -
 
