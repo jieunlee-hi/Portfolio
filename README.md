@@ -24,3 +24,5 @@
  - Jupyter notebook - Python으로 작성
  (5) Review
  -Feedback :
+
+보러가기 -> : [워드클라우드 시각화]()
