@@ -1,7 +1,7 @@
 SET VERIFY OFF
 set serveroutput on;
 
-ACCEPT P_ISIN_CODE PROMPT 'íˆ¬ìžì„¤ëª…ì„œë¥¼ ì›í•˜ëŠ” ì¢…ëª©ì½”ë“œë¥¼ ìž…ë ¥í•˜ì„¸ìš”. : ';
+ACCEPT P_ISIN_CODE PROMPT 'ÅõÀÚ¼³¸í¼­¸¦ ¿øÇÏ´Â Á¾¸ñÄÚµå¸¦ ÀÔ·ÂÇÏ¼¼¿ä. : ';
 DECLARE
 V_ISIN_CODE MATCHING_RESULT.ISIN_CODE%TYPE;
 V_FSS_NO MATCHING_RESULT.FSS_NO%TYPE;
@@ -13,9 +13,9 @@ SELECT FSS_NO, trim(ISIN_CODE), ISSUE_INST_NAME, ISSUE_CNT
 INTO   V_FSS_NO, V_ISIN_CODE,V_ISSUE_INST_NAME,V_ISSUE_CNT
 FROM MATCHING_RESULT
 WHERE ISIN_CODE = '&P_ISIN_CODE';
-DBMS_OUTPUT.PUT_LINE(trim(V_ISIN_CODE)||' => ' ||V_ISSUE_INST_NAME||V_ISSUE_CNT||' íˆ¬ìžì„¤ëª…ì„œ => https://dart.fss.or.kr/dsaf001/main.do?rcpNo='||V_FSS_NO);
+DBMS_OUTPUT.PUT_LINE(trim(V_ISIN_CODE)||' => ' ||V_ISSUE_INST_NAME||V_ISSUE_CNT||' ÅõÀÚ¼³¸í¼­ => https://dart.fss.or.kr/dsaf001/main.do?rcpNo='||V_FSS_NO);
 EXCEPTION
 WHEN  NO_DATA_FOUND THEN
-    DBMS_OUTPUT.PUT_LINE('ì¡´ìž¬í•˜ì§€ì•ŠëŠ”ì½”ë“œ:::'||&P_ISIN_CODE);
+    DBMS_OUTPUT.PUT_LINE('Á¸ÀçÇÏÁö¾Ê´ÂÄÚµå:::'||&P_ISIN_CODE);
 END;
 /
