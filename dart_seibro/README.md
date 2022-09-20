@@ -3,5 +3,18 @@
 + Main Goal
   + 파생결합증권 투자자들의 편의성 향상을 위하여 종목코드와 투자설명서 매칭
 + Overview
-  + 투자설명서의 텍스트(비정형데이터) 추출을 위해 DART에서 제공하는 OPENAPI를 이용하여 원하는 조건의 전자공시를  XML형식의 파일(반정형데이터)로 다운받아 전처리과정을 통해 원하는 형태의 값으로  수집하여 SEIBRO에서 제공하는 EXCEL 파일 (정형데이터) 속 종목코드와 해당되는 투자설명서를 매칭시키는 프로그램
+  + 투자설명서의 텍스트(비정형데이터) 추출을 위해 DART에서 제공하는 OPENAPI를 이용
+  원하는 조건의 전자공시를  XML형식의 파일(반정형데이터)로 다운받아 전처리과정을 통해 원하는 형태의 값으로 데이터를 수집하여 
+  SEIBRO에서 제공하는 EXCEL 파일 (정형데이터) 속 종목코드와 해당되는 투자설명서 매칭
+  
++ 사용기술 및 관련 코드
+  + 데이터 수집 : PYTHON / OPENAPI /requests / EXCEL
+    + dart_crawling.py
+  + 전처리 : PYTHON / Oracle Procedure
+    + SEIBRO_RESULT.pls
+    + DARTS2SEIBRO.pls
+  + 데이터 매칭 : PL/SQL 
+    + select.sql
+  
+
 
