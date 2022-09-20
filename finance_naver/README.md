@@ -25,6 +25,9 @@ Keyword
 https://github.com/corazzon/finance-data-analysis/blob/main/3.3%20%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B8%88%EC%9C%B5%20%EA%B0%9C%EB%B3%84%EC%A2%85%EB%AA%A9%20%EC%88%98%EC%A7%91-input.ipynb
 
 ## 사용 스킬 소개
+* Pandas read_html로 데이터수집 하기
+* Pandas로 데이터 로드해서 분석하기
+
 Pandas : 파이썬의 대표적인 데이터 분석 도구
 Numpy : 파이썬의 수치계산 도구
 matplotlib : 파이썬의 대표적인 데이터 시각화 도구
