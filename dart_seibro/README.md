@@ -1,6 +1,7 @@
 # DART & SEIBRO 데이터 매칭 프로젝트
-![아이콘](![Uploading image.png…]())
+## 비정형데이터와 정형데이터의 매칭
++ Main Goal
+  + 파생결합증권 투자자들의 편의성 향상을 위하여 종목코드와 투자설명서 매칭
++ Overview
+  + 투자설명서의 텍스트(비정형데이터) 추출을 위해 DART에서 제공하는 OPENAPI를 이용하여 원하는 조건의 전자공시를  XML형식의 파일(반정형데이터)로 다운받아 전처리과정을 통해 원하는 형태의 값으로  수집하여 SEIBRO에서 제공하는 EXCEL 파일 (정형데이터) 속 종목코드와 해당되는 투자설명서를 매칭시키는 프로그램
 
-![파이썬](https://www.filehippo-filehippo.com/picmympi/2020/11/Download-Python-For-Windows-10-e1626455787656.png) ![SQL](https://th.bing.com/th/id/OIP.QGwmF9AzQ-skr3a4N6YAmAAAAA?pid=ImgDet&rs=1) 
-
-# 1.Project -
