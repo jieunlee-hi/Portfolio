@@ -3,9 +3,25 @@
 
 > ## Project
  ### 1. Project - [2022 유망업종 금융데이터 분석](https://github.com/jieunlee-hi/Portfolio/tree/main/finance_naver)
-  * 수집 : read.html()사용하여 네이버 금융 데이터 수집 Pandas로 Read_csv, rename, groupby, agg, query, sort_values,
-  * 전처리 : drop_duplicates,날짜 형식 변환탐색적 데이터 분석을 수행
-  * 분석 및 시각화 : Seaborn distplot, barplot 및 countplot 서브플롯 및 대화형 Plotly 플롯Seaborn 및 Matplotlib를 사용하여 산점도, distplot, lineplot 및 히트맵을 구축했습니다.
+ * 수집
+   * Pandas의 read_html, requests, BeautifulSoup 활용해 주가지표 데이터를 가져오는 함수를 작성하고 반복문 이용하여 여러 업종데이터 수집
+   * FinanceDataReader 이용하여 KRX 데이터 수집
+ * 전처리
+   * 데이터 목적에 맞게 자료구조형변환 ex) 리스트 -> 딕셔너리,  2차원리스트 -> 1차원리스트 , 리스트 -> 데이터프레임
+   * 결측치와 이상치 탐색 후 제거 ex) dropna, outlier 
+   * 정규표현식, astype, melt, merge, filter,append, concat, pivot,transpose 등의 기능을 활용하여 분석가능한 결과데이터생성
+   * to_csv , read_csv 이용하여 결과 파일 저장 및 읽어오기
+ * 분석
+   * groupby, pivot_table, info, describe, value_counts, sort_values 등을 통해 데이터 요약과 분석
+   * 상관분석 corr(), heatmap, 선형성 확인
+   * 다양한 시각화 방법 사용
+     * seaborn
+       * catplot / barplot / boxplot / scatterplot / regplot / factorplot / heatmap 그래프사용
+       * palette /color/ notch / edgecolor/ linewidth 등 그래프 옵션 사용
+     * matplotlib
+       * hist() / bar() 사용
+       * subplot / add_subplot / tight_layout() 등 사용
+
  ### 2. Project - [DART비정형데이터와 SEIBRO 정형EXCEL데이터 매칭](https://github.com/jieunlee-hi/Portfolio/tree/main/dart_seibro)
   * 수집 :
   * 전처리 :
