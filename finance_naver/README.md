@@ -16,7 +16,7 @@
 * 다양한 시각화 방법 사용
    * 막대그래프(bar plot), 선그래프(line plot), 산점도/산포도(scatter plot,regplot,swarm plot), 상관관계(lm plot), 히트맵(Heatmap), 히스토그램(distplot), 파이차트(pie plot), 덴드로그램(dendrogram), 카테고리플롯(catplot), 박스플롯(boxplot), 패싯 그리드(factorplot) 등 
 
-> ## 데이터출처
+> ## 수집 데이터 출처
 * 네이버 금융 업종별 : https://finance.naver.com/sise/sise_group.naver?type=upjong
     * 자동차 : https://finance.naver.com/sise/sise_group_detail.naver?type=upjong&no=278
     * 반도체와반도체장비 : https://finance.naver.com/sise/sise_group_detail.naver?type=upjong&no=273
