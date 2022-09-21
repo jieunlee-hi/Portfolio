@@ -23,3 +23,49 @@
     * 방송과엔터테인먼트 : https://finance.naver.com/sise/sise_group_detail.naver?type=upjong&no=285
 * KRX 전체종목 :
     * FinanceDataReader 이용 
+> ## 상세 내용
+* 수집 
+  * html 파일 수집하기 pd.read_html(url)
+  * 결측 데이터 제거하기(axis 0:행, 1:열)
+    * dropna(how="all")  : 모든 값이 전부 NaN인 행만 제거
+    * dropna(subset=[''])  : 해당 컬럼값이 NaN인 행만 제거 
+  * 데이터 프레임 합치기 pd.concat / pd.merge
+  * 업종별 거래량 / 거래대금 시각화
+    * seaborn /matplotlib
+  * 파생변수 생성
+    * datetime 이용하여 조회일자 컬럼생성
+    * FinanceDataReader 사용하여 종목코드 컬럼생성
+  * 주가 정보 수집 함수 생성
+    * for문 사용하여 필요 데이터 수집
+  * tqdm 사용 : 오래 걸리는 작업의 진행 상태 표시
+  * 파일 저장 df.to_csv(file_name, index=False)
+  * 파일 로드 pd.read_csv(file_name)
+  
+ * 전처리
+    * 결측치 처리 : missingno이용 dendrogram 시각화 , dropna
+    * 코스닥/코스피 :  한컬럼을 두컬럼으로 분류 (컬럼명에 '*' 있는 종목은 코스닥 종목) , pie차트 시가화
+    * 시가총액, 시가총액 순위 : 정규표현식을 이용하여 필요글자만 추출
+    * 동일업종PER : astype()사용하여 형변환
+    * 배당 수익률/ PER|EPS / PBR|BPS : filter와 melt사용 tidydata생성, duplicated, unique사용하여 중복점검 
+
+* 분석
+  * 결측치 처리: A_y값이 결측치일 경우 A_x값으로 대체
+  * df["A"] = df["A_y"].fillna(df["A_x"])
+  * 이상치 IQR값이용 이상치 제거
+  * PER/PBR 상하위 최대/최소 종목 분석
+    * sort_values / groupby 
+    * max()/min()
+    * 상관분석 corr()
+    * 선형성 확인
+  * 배당수익률이 높은종목
+  * 코스피 중 시가총액이 가장 많은 종목
+  * 코스피 중 거래량이 가장 많은 종목
+  * 거래대금이 15위 안에 있는 코스피 종목의 "PER(배)" 분석
+  * 컬럼 별 상관관계 분석
+  * 시각화
+    * seaborn 
+      * catplot / barplot / boxplot / scatterplot / regplot / factorplot / heatmap  그래프사용
+      * palette /color/ notch / edgecolor/ linewidth 등 그래프 옵션 사용 
+    * matplotlib
+      * hist() / bar() 사용
+      * subplot / add_subplot / tight_layout() 등 사용
