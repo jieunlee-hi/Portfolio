@@ -14,7 +14,7 @@
 * to_csv , read_csv 이용하여 결과 파일 저장 및 읽어오기
 * groupby, pivot_table, info, describe, value_counts 등을 통해 데이터 요약과 분석
 * 다양한 시각화 방법 사용
-   * 막대그래프(bar plot), 선그래프(line plot), 산점도/산포도(scatter plot,regplot,swarm plot), 상관관계(lm plot), 히트맵(Heatmap), , 히스토그램(distplot) 파이차트(pie plot),덴드로그램(dendrogram),카테고리플롯(catplot),박스플롯(boxplot),패싯 그리드(factorplot) 등 
+   * 막대그래프(bar plot), 선그래프(line plot), 산점도/산포도(scatter plot,regplot,swarm plot), 상관관계(lm plot), 히트맵(Heatmap), 히스토그램(distplot), 파이차트(pie plot), 덴드로그램(dendrogram), 카테고리플롯(catplot), 박스플롯(boxplot), 패싯 그리드(factorplot) 등 
 
 > ## 데이터출처
 * 네이버 금융 업종별 : https://finance.naver.com/sise/sise_group.naver?type=upjong
