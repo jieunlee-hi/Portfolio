@@ -1,4 +1,6 @@
 # DART & SEIBRO 데이터 매칭 프로젝트
+![제목 없음ff](https://user-images.githubusercontent.com/34561364/191533968-148c01c8-1dd3-451b-99d9-4844153cc54a.png)
+
 ## 비정형데이터와 정형데이터의 매칭
 + Main Goal
   + 파생결합증권 투자자들의 편의성 향상을 위하여 종목코드와 투자설명서 매칭
