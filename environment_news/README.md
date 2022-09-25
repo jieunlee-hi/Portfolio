@@ -1,6 +1,7 @@
 # 환경 뉴스 텍스트 마이닝
 ----------
 ![news (3)](https://user-images.githubusercontent.com/34561364/192138427-c2273446-eed5-42a7-9cc3-20df2bbbebf0.png)
+![제목 없음gggg](https://user-images.githubusercontent.com/34561364/192140163-1830bf9a-8e37-45fe-ae3c-29588337cb87.png)
 
 텍스트 마이닝 (Text Mining) 이란?
 > 비/반정형 텍스트 데이터에서 자연어처리(Natural Language Processing)기술에 기반하여 유용한 정보를 추출, 가공하는 것을 목적으로 하는 기술이다
