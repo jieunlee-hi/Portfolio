@@ -1,5 +1,5 @@
 # DART & SEIBRO 데이터 매칭 프로젝트
-![제목 없음ff](https://user-images.githubusercontent.com/34561364/191533968-148c01c8-1dd3-451b-99d9-4844153cc54a.png)
+![gggg](https://user-images.githubusercontent.com/34561364/192132865-f43f4094-1620-4343-a22d-6e62d8abe24e.png)
 
 ## 비정형데이터와 정형데이터의 매칭
 + Main Goal
