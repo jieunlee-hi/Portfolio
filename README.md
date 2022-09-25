@@ -26,6 +26,8 @@
   * [바로가기](https://github.com/jieunlee-hi/Portfolio/blob/main/finance_naver/3_%EB%B6%84%EC%84%9D.ipynb)
  # 2. Project - [DART비정형데이터와 SEIBRO 정형EXCEL데이터 매칭](https://github.com/jieunlee-hi/Portfolio/tree/main/dart_seibro)
  ------------
+![gggg](https://user-images.githubusercontent.com/34561364/192132865-f43f4094-1620-4343-a22d-6e62d8abe24e.png)
+
 ### Main Goal
   + 파생결합증권 투자자들의 편의성 향상을 위하여 종목코드와 투자설명서 매칭
 ### Overview
