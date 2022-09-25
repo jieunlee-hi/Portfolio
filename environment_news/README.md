@@ -8,10 +8,13 @@
 
 텍스트 마이닝의 3단계 
 1. 문서 수집 (Crawling)
-  1) html Parsing
-  2) BeautifulSoup 패키지
-     - 아나콘다 프롬프트에서 'pip install beautifulsoup4' 입력 => 설치
-  3) 형태소 모듈 테스트
+  1) 자료 입수처 : 네이버 뉴스 > 사회 >  환경
+(https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=102&sid2=252)
+  2) 수집 데이터 내용 :
+  pd.date_range로 지정한 1년간의 환경 뉴스 헤드라인 추출
+     * 데이터 기간 : 2021.08.01  ~ 2022.07.31  
+  3) 수집 기술 : PYTHON
+
 2. 형태소 분석 (NLP) (Konlpy)
   형태소 분석 개요
      문서(document) > 문단(paragraph) > 문장(sentence) > 어절 > 형태소 > 음절
