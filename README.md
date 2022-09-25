@@ -81,7 +81,7 @@
 
  ## 3.Project  - [환경 뉴스 워드클라우드 시각화](https://github.com/jieunlee-hi/Portfolio/tree/main/environment_news)
  ------------
- ![news (2)](https://user-images.githubusercontent.com/34561364/192138382-91605e45-b13f-4d56-b9cb-57ddb80331c4.png)
+![news (3)](https://user-images.githubusercontent.com/34561364/192138427-c2273446-eed5-42a7-9cc3-20df2bbbebf0.png)
 
 > ## 데이터 추출 및 전처리
 > ## SQL 작업
