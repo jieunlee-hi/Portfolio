@@ -7,7 +7,7 @@
   즉, 문서 중에 특정 단어가 얼마나 많이 출현하는지 단어 빈도(Term Frequency)를 찾아낸다. 이때 분석에 사용한 데이터는 뉴스인데 문장, 즉 자연어로 되어 있어서 문장 그대로 분석할 수 없다. 하나의 단어로 분리해야 하는데, 이를 형태소 분석이라고 한다.
 
 # 텍스트 마이닝의 3단계 
-## 1. [문서 수집](https://github.com/jieunlee-hi/Portfolio/blob/main/environment_news/environment_news_crawling.py) (Crawling)
+## 1. [데이터 수집](https://github.com/jieunlee-hi/Portfolio/blob/main/environment_news/environment_news_crawling.py) (Crawling)
 ##### 1) 자료 입수처 : 네이버 뉴스 > 사회 >  환경
 (https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=102&sid2=252)
 ##### 2) 수집 데이터 내용 :
