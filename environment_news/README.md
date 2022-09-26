@@ -17,7 +17,7 @@
     * html Parsing
     * BeautifulSoup 패키지
 
-## 2. 형태소 분석 (NLP) (Konlpy)
+## 2. [형태소 분석](https://github.com/jieunlee-hi/Portfolio/blob/main/environment_news/environment_news.ipynb) (NLP) (Konlpy)
 * 문서(document) > 문단(paragraph) > 문장(sentence) > 어절 > 형태소 > 음절
 * 형태소 : 의미를 가진 가장 작은 말의 단위. 더 나누면 뜻을 잃어버림.
 ##### 2-1) 빈도분석 (Counter 함수)
@@ -35,7 +35,7 @@
   ![제목 없음z](https://user-images.githubusercontent.com/34561364/192263590-e7b03900-7db2-47bf-8728-13a881b76c3f.png)
 
       
-## 3. 시각화 (Word Cloud)
+## 3. [시각화](https://github.com/jieunlee-hi/Portfolio/blob/main/environment_news/environment_news.ipynb) (Word Cloud)
 ##### 3-1) seaborn - barplot , lmplot을 이용한 시각화
 ##### 3-2) Word Cloud 단어빈도 시각화 
   * 가장빈도가 큰 단어와 빈도가 가장 작은 단어 폰트 사이의 크기 차이를 주어 시각화
