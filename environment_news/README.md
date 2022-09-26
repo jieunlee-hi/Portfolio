@@ -1,4 +1,4 @@
-# 환경 뉴스 텍스트 마이닝
+# [환경 뉴스 텍스트 마이닝](https://github.com/jieunlee-hi/Portfolio/blob/main/environment_news/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%84%A4%EB%AA%85.pdf)
 ----------
 ![news (3)](https://user-images.githubusercontent.com/34561364/192138427-c2273446-eed5-42a7-9cc3-20df2bbbebf0.png)
 
