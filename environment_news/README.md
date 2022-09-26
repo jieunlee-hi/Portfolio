@@ -32,6 +32,8 @@
   * L > 1 : 양의 상관관계 (같이 구매할 확률 높음)
   * L < 1 : 음의 상관관계 (같이 구매할 확률 낮음)
   * L = 1 : 독립적 상관관계 (서로 영향 미치지 않음)
+  ![제목 없음z](https://user-images.githubusercontent.com/34561364/192263590-e7b03900-7db2-47bf-8728-13a881b76c3f.png)
+
       
 ## 3. 시각화 (Word Cloud)
 ##### 3-1) seaborn - barplot , lmplot을 이용한 시각화
