@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 ![아이콘](https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-1565652-1327717.png)
 
- # 1. Project - [2022 유망업종 금융데이터 분석](https://github.com/jieunlee-hi/Portfolio/tree/main/finance_naver)
+ # Project 1 - [2022 유망업종 금융데이터 분석](https://github.com/jieunlee-hi/Portfolio/tree/main/finance_naver)
  ------------
  ## 수집
  * Pandas의 read_html, requests, BeautifulSoup 활용해 주가지표 데이터를 가져오는 함수를 작성하고 반복문 이용하여 여러 업종데이터 수집
@@ -24,7 +24,7 @@
        * hist() / bar() 사용
        * subplot / add_subplot / tight_layout() 등 사용
   * [바로가기](https://github.com/jieunlee-hi/Portfolio/blob/main/finance_naver/3_%EB%B6%84%EC%84%9D.ipynb)
- # 2. Project - [DART비정형데이터와 SEIBRO 정형EXCEL데이터 매칭](https://github.com/jieunlee-hi/Portfolio/tree/main/dart_seibro)
+ # Project 2 - [DART비정형데이터와 SEIBRO 정형EXCEL데이터 매칭](https://github.com/jieunlee-hi/Portfolio/tree/main/dart_seibro)
  ------------
 ![gggg](https://user-images.githubusercontent.com/34561364/192132865-f43f4094-1620-4343-a22d-6e62d8abe24e.png)
 
@@ -79,7 +79,7 @@
     * 매치되는 데이터가 없을 시 : 존재하지않는코드:::
   
 
- ## 3.Project  - [환경 뉴스 텍스트마이닝](https://github.com/jieunlee-hi/Portfolio/tree/main/environment_news)
+ # Project 3- [환경 뉴스 텍스트마이닝](https://github.com/jieunlee-hi/Portfolio/tree/main/environment_news)
  ------------
 ![news (3)](https://user-images.githubusercontent.com/34561364/192138427-c2273446-eed5-42a7-9cc3-20df2bbbebf0.png)
 ## [상세설명 PDF 바로가기]()
