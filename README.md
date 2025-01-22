@@ -1,5 +1,59 @@
 # Data Analytics Portfolio
 ![아이콘](https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-1565652-1327717.png)
+ # 시각화
+다양한 데이터 활용 및 학습 기반 대시보드 제작
+이 섹션에 포함된 대시보드는 다양한 산업과 분야의 데이터 분석 및 시각화를 학습하기 위해 공개된 인터넷 데이터와 가상 데이터를 활용하여 제작되었습니다. 각 대시보드는 데이터를 실무 환경에서 어떻게 적용할 수 있는지 보여주는 사례로, Tableau를 사용해 제작되었습니다.
+
+
+1. Funnel Conversion Dashboard
+ 
+•	분석 내용: 사용자의 전환 경로를 시각화하여 병목 구간을 식별하고 개선안을 제시. 
+
+2. Promotion Analysis Dashboard
+ 
+•	분석 내용: 프로모션 전후의 판매량, 주문량, AOV(평균 구매 단가) 변화를 분석. 
+
+3. Ecommerce User Event Analytics
+ 
+•	분석 내용: 사용자 이벤트 데이터를 기반으로 구매 및 가입 전환 분석. 
+
+4. SNS Log Analytics Dashboard
+ 
+•	분석 내용: SNS 게시물의 조회수, 좋아요, 팔로우 등 주요 지표 분석. 
+
+5. CRM Marketing Analytics Dashboard
+ 
+•	분석 내용: CRM 캠페인의 전송률, 클릭률, 매출 기여도를 분석. 
+
+6. RFM Customer Segmentation Dashboard
+ 
+•	분석 내용: RFM 분석을 통해 VIP, 이탈 우려 고객 등 고객군 세분화. 
+
+7. 광고 효율 분석 대시보드
+ 
+•	분석 내용: 채널별 광고 효율성과 ROAS를 분석하여 투자 우선순위 제안. 
+
+8. AARRR Dashboard
+ 
+•	분석 내용: 스타트업 핵심 지표(획득, 활성화, 유지 등)를 AARRR 프레임워크로 분석. 
+
+9. Metric Hierarchy Dashboard
+ 
+•	분석 내용: 주요 비즈니스 지표를 계층적으로 구조화하여 성과 분석. 
+
+10. KPI Dashboard
+ 
+•	분석 내용: 월별, 연간 주요 KPI를 시각화하여 성과 비교. 
+
+11. Sales & Delivery Map Dashboard
+ 
+•	분석 내용: 지역별 매출 및 배송 속도를 시각화하여 지역별 성과 및 물류 효율성을 파악. 
+
+12. Game Log Analytics Dashboard
+ 
+•	분석 내용: 게임 사용자 로그 데이터를 활용하여 사용자 유지율, 구매 패턴 및 튜토리얼 진행률 분석.
+
+
 
  # Project 1 - [2022 유망업종 금융데이터 분석](https://github.com/jieunlee-hi/Portfolio/tree/main/finance_naver)
  ------------
